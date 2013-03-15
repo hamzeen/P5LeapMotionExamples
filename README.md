@@ -10,7 +10,7 @@ Here is a screen from one of the examples.
 
 ## Credit ##
 *   [**Onformative**] (http://www.onformative.com/), for LeapMotionP5 wrappers.
-*   [**Saito & Matt Ditton**] (https://code.google.com/p/saitoobjloader/), for their object loader.
+*   [**Saito & Matt Ditton**] (https://code.google.com/p/saitoobjloader/), for the object loader.
 
 > If I'm missing anyone else, please shout at me, I'll be delighted to add them here.
 
