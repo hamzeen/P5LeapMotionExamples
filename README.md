@@ -3,9 +3,8 @@ This repository holds LeapMotion examples on handling 3D Objects in Processing.
 All these examples are made using OpenLeap's Processing library for LeapMotion and 
 none of them use gestures or fingertip positions. If you have any feedback or questions, 
 [file an issue here](https://github.com/hamzeen/P5LeapMotionExamples/issues/new) and 
-I will try to get back to you when I can.
+I will try to get back to you when I can. Below are some screens from these examples.
 
-Below are some screens of these examples.
 ![https://github.com/hamzeen/P5LeapMotionExamples/raw/master/3DModelExample.jpg](https://github.com/hamzeen/P5LeapMotionExamples/raw/master/3DModelExample.jpg)
 ![https://github.com/hamzeen/P5LeapMotionExamples/raw/master/RGBCubeExample.jpg](https://github.com/hamzeen/P5LeapMotionExamples/raw/master/RGBCubeExample.jpg)
 
