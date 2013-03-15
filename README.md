@@ -5,7 +5,8 @@ none of them use gestures or fingertip positions. If you have any feedback or qu
 [file an issue here](https://github.com/hamzeen/P5LeapMotionExamples/issues/new) and 
 I will try to get back to you when I can.
 
-Here is a screen from one of the examples.
+Below are some screens of these examples.
+![https://github.com/hamzeen/P5LeapMotionExamples/raw/master/3DModelExample.jpg](https://github.com/hamzeen/P5LeapMotionExamples/raw/master/3DModelExample.jpg)
 ![https://github.com/hamzeen/P5LeapMotionExamples/raw/master/RGBCubeExample.jpg](https://github.com/hamzeen/P5LeapMotionExamples/raw/master/RGBCubeExample.jpg)
 
 ## Credit ##
