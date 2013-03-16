@@ -31,7 +31,7 @@ void setup()
 
 void draw()
 {
-    background(25,85,100);
+    background(247,238,190);
     lights();
     posSphere = new PVector(width/2,height/2,-10);
 
